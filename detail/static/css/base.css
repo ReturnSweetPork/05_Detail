@@ -1,0 +1,23 @@
+.tiledBackground {
+  background-color: gray;
+  background-size: 350px 100%;
+  height: 350px;
+  background-repeat: repeat;
+  color : white;
+}
+
+
+.foot{
+    height:50px;
+    background-color: gray;
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+.Background {
+  background-color: yellow;
+  background-size: 350px 100%;
+  height: 350px;
+  background-repeat: repeat;
+  color : red;
+}
